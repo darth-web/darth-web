@@ -23,7 +23,8 @@ root@kali:#
 ```
 ---
 
-⌚︎ Time Zone: AEDT 🌏
+## ⌚︎ Time Zone: AEDT 🌏
+---
 
 ## 🤖 What I’m currently learning
 
