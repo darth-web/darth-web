@@ -29,7 +29,7 @@ root@kali:#
 ## 🤖 What I’m currently learning
 
 - [TryHackMe](https://tryhackme.com/p/asheal99) - I am currently going through the Holo Network on TryHackMe.
-- [HackTheBox](HTB_Writeups/Readme.md) - I am currently making my way through TJNull's OSCP Like boxes.
+- [HackTheBox](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) - I am currently making my way through TJNull's OSCP Like boxes.
 - [Practical Network Penetration Tester](https://certifications.tcm-sec.com/pnpt/)
 - [OSCP](https://www.offensive-security.com/pwk-oscp/)
 - [eJPT](https://elearnsecurity.com/product/ejpt-certification/)
