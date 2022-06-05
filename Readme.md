@@ -28,7 +28,7 @@ root@kali:#
 
 ## 🤖 What I’m currently learning
 
-- [TryHackMe](https://tryhackme.com/p/asheal99) - I am currently going through the Holo Network on TryHackMe.
+- [TryHackMe](https://tryhackme.com/p/asheal99) - I am currently going through the Throwback Network on TryHackMe.
 - [HackTheBox](https://github.com/darth-web/HTB_Writeups) - I am currently making my way through TJNull's OSCP Like boxes.
 - [Practical Network Penetration Tester](https://certifications.tcm-sec.com/pnpt/)
 - [OSCP](https://www.offensive-security.com/pwk-oscp/)
